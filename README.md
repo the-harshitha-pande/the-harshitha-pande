@@ -20,4 +20,4 @@ Let’s connect, explore data, and turn curiosity into something meaningful.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshitha-s-16381937a)
 
 ## 🛠 Tech Stack
-![Python](https://img.shields.io/badge/Python-blue) ![SQL](https://img.shields.io/badge/SQL-orange) ![SQL](https://img.shields.io/badge/SQL-orange) ![PowerBI](https://img.shields.io/badge/PowerBI-yellow?logo=powerbi)
+![Python](https://img.shields.io/badge/Python-blue)  ![SQL](https://img.shields.io/badge/SQL-orange) ![PowerBI](https://img.shields.io/badge/PowerBI-yellow?logo=powerbi)
