@@ -1,16 +1,23 @@
-## Hi there 👋
+# 🌸Hi! I’m glad you found your way here.
+Welcome to my GitHub corner. 
 
-<!--
-**the-harshitha-pande/the-harshitha-pande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently on an exciting journey of learning data analytics, picking up new tech skills, and exploring the stories hidden in data    
+I'm focusing on hands-on learning, building projects, and strengthening my analytical and technical skills along the way.
 
-Here are some ideas to get you started:
+## 💻Skills I'm Developing
+• 🐍Python  
+• 🗄SQL  
+• 📊Data Visualization  
+• 🔍Exploratory Data Analysis (EDA)  
+• 📉Statistical & Predictive Analytics  
+• 🔄ETL Processes  
+• 🧠Business Understanding
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My goal is to explore data, discover meaningful patterns, and transform them into knowledge that supports better decisions.
+Let’s connect, explore data, and turn curiosity into something meaningful.
+
+## 🌐socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshitha-s-16381937a)
+
+## 🛠 Tech Stack
+![Python](https://img.shields.io/badge/Python-blue) ![SQL](https://img.shields.io/badge/SQL-orange) ![SQL](https://img.shields.io/badge/SQL-orange) ![PowerBI](https://img.shields.io/badge/PowerBI-yellow?logo=powerbi)
